@@ -1,5 +1,4 @@
 //
-// Created by abdms on 08/03/2021.
 //
 
 #ifndef UNTITLED_SNOWMAN_HPP
