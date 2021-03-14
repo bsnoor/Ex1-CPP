@@ -1,6 +1,4 @@
-//
-// Created by abdms on 08/03/2021.
-//
+
 
 #include "doctest.h"
 #include "snowman.hpp"
